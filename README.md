@@ -78,4 +78,4 @@ struct Rtc {
 };
 ```
 
-For more addidtional info check the comments in the code!
+For more addidtional info check the comments in header files!
